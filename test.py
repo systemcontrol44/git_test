@@ -1,2 +1,2 @@
-print('on MASTER BRANCH, git mechanisim test')
+print('on Test BRANCH, git test')
 print('say hello')
